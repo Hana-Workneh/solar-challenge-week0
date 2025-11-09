@@ -1,0 +1,38 @@
+# Solar Challenge Week 0
+
+This repository is for the Solar Challenge Week 0 project.  
+It includes Python code, notebooks, scripts, and a basic CI workflow to ensure your environment is set up correctly.
+
+---
+
+## Repository Structure
+
+solar-challenge-week0/
+├── .github/
+│ └── workflows/
+│ └── ci.yml # GitHub Actions CI workflow
+├── .vscode/
+│ └── settings.json # VS Code settings (optional)
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+├── src/ # Source code
+├── notebooks/ # Jupyter notebooks
+│ ├── init.py
+│ └── README.md
+├── tests/ # Unit tests
+│ └── init.py
+└── scripts/ # Utility scripts
+├── init.py
+└── README.md
+
+
+---
+
+## Environment Setup
+
+Follow these steps to reproduce the development environment:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Hana-Workneh/solar-challenge-week0.git
+cd solar-challenge-week0
