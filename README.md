@@ -12,17 +12,17 @@ solar-challenge-week0/
 │ └── workflows/
 │ └── ci.yml # GitHub Actions CI workflow
 ├── .vscode/
-│ └── settings.json # VS Code settings (optional)
+│ └── settings.json # VS Code settings 
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 ├── src/ # Source code
 ├── notebooks/ # Jupyter notebooks
-│ ├── init.py
+│ ├── __init__.py
 │ └── README.md
 ├── tests/ # Unit tests
-│ └── init.py
+│ └── __init__.py
 └── scripts/ # Utility scripts
-├── init.py
+├── __init__.py
 └── README.md```
 
 
