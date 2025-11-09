@@ -6,7 +6,7 @@ It includes Python code, notebooks, scripts, and a basic CI workflow to ensure y
 ---
 
 ## Repository Structure
-
+```
 solar-challenge-week0/
 ├── .github/
 │ └── workflows/
@@ -23,7 +23,7 @@ solar-challenge-week0/
 │ └── init.py
 └── scripts/ # Utility scripts
 ├── init.py
-└── README.md
+└── README.md```
 
 
 ---
