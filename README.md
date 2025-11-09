@@ -33,6 +33,6 @@ solar-challenge-week0/
 Follow these steps to reproduce the development environment:
 
 ### 1. Clone the repository
-```bash
+```
 git clone https://github.com/Hana-Workneh/solar-challenge-week0.git
-cd solar-challenge-week0
+cd solar-challenge-week0 ```
