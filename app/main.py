@@ -87,3 +87,4 @@ with tab3:
     ax.set_xlabel("Country")
     ax.set_title("Average GHI by Country")
     st.pyplot(fig)
+
