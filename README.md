@@ -1,4 +1,4 @@
-# Solar Challenge Week 0
+<img width="1918" height="1007" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/37129ea2-87c2-4df9-8840-d3d0a03b1894" /># Solar Challenge Week 0
 
 This repository is for the Solar Challenge Week 0 project.  
 It includes Python code, notebooks, scripts, and a basic CI workflow to ensure your environment is set up correctly.
